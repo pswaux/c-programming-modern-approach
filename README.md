@@ -1,4 +1,4 @@
-# C Programming: Modern Approach 2nd Edition
+# C Programming: A Modern Approach 2nd Edition
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/24891489/163218014-ca60a738-ea95-47d1-b9e7-998f1c2d5c0d.jpg" />
