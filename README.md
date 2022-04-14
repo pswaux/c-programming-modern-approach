@@ -19,9 +19,9 @@ My system is 64-bit Arch Linux running GCC 11.2.0.
 
 ## Table of Contents
 * Chapter 1 - Introducing C
-* Chapter 2 - C Fundamentals
-* Chapter 3 - Formatted Input/Output
-* Chapter 4 - Expressions
+* [Chapter 2](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/02) - C Fundamentals
+* [Chapter 3](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/03) - Formatted Input/Output
+* [Chapter 4](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/04) - Expressions
 * Chapter 5 - Selection Statements
 * Chapter 6 - Loops
 * Chapter 7 - Basic Types
