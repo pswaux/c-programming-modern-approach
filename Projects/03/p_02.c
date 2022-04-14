@@ -8,8 +8,8 @@
  *	Enter purchase date (mm/dd/yyyy): 10/24/2010
  *
  *	Item		Unit			Purchase
- *				Price			Date
- *	583			$  13.50		10/24/2010
+ *			Price			Date
+ *	583		$  13.50		10/24/2010
  *
  * The item number and date should be left justified; the unit price
  * should be right justified. Allow dollar amounts up to $9999.90. 
