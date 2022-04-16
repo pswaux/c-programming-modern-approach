@@ -23,7 +23,7 @@ My system is 64-bit Arch Linux running GCC 11.2.0.
 * [Chapter 3](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/03) - Formatted Input/Output
 * [Chapter 4](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/04) - Expressions
 * [Chapter 5](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/05) - Selection Statements
-* Chapter 6 - Loops
+* [Chapter 6](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/06) - Loops
 * Chapter 7 - Basic Types
 * Chapter 8 - Arrays
 * Chapter 9 - Functions
