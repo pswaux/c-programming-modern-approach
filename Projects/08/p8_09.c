@@ -98,7 +98,7 @@ int main(void) {
          case LEFT:  col--; break;
       }
 
-      // check the move whether is available or not
+      // check whether the move is available
       // if not, choose again
       if (!check[row][col]) {   // there's no available move
          // restore the original location
