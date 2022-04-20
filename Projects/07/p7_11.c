@@ -15,7 +15,6 @@
 
 int main(void) {
    char first, last;
-   int len = 0, space;
    
    printf("Enter a first and last name: ");
    scanf(" %c", &first);      // get the first character
