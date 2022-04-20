@@ -18,7 +18,8 @@ int main(void) {
    
    printf("Enter a first and last name: ");
    scanf(" %c", &first);      // get the first character
-   while (getchar() != ' ');  // and skip the rest of the characters
+   // and skip the rest of the characters
+   while (getchar() != ' ');
 
    scanf(" %c", &last);
    while (last != '\n') {
