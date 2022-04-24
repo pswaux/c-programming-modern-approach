@@ -26,8 +26,8 @@ My system is 64-bit Arch Linux running GCC 11.2.0.
 * [Chapter 6](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/06) - Loops
 * [Chapter 7](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/07) - Basic Types
 * [Chapter 8](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/08) - Arrays
-* Chapter 9 - Functions
-* Chapter 10 - Program Organization
+* [Chapter 9](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/09) - Functions
+* [Chapter 10](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/10) - Program Organization
 * Chapter 11 - Pointers
 * Chapter 12 - Pointers and Array
 * Chapter 13 - Strings
