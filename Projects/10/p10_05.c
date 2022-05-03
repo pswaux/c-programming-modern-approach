@@ -165,7 +165,7 @@ void analyze_hand(void) {
  * print_result:  prints the classification of the hand,
  *                based on the values of the external
  *                variables straight, flush, four, three,
- *                and pairs
+ *                and pairs.
  *
  */
 void print_result(void) {
