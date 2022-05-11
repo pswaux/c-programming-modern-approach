@@ -23,7 +23,7 @@ int main(void) {
    int length = 0;
 
    printf("Enter a message: ");
-   for (ptr = message; ptr < message + SIZE; ptr++) {
+   for (ptr = &message[0]; ptr < &message[0] + SIZE; ptr++) {
       ch = getchar();
 
       if (ch == '\n') break;
@@ -33,7 +33,7 @@ int main(void) {
    }
 
    printf("Reversal is: ");
-   for (ptr = message + length - 1; ptr >= message; ptr--)
+   for (ptr = &message[0] + length - 1; ptr >= &message[0]; ptr--)
       putchar(*ptr);
 
    printf("\n");
