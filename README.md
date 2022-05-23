@@ -8,7 +8,7 @@
 This repository contains my own solutions to programming projects (not exercises) in this book. 
 Because of the chapters 14 and 18 don't have the programming projects, those chapters will be skipped.
 
-My system is 64-bit Arch Linux running GCC 11.2.0.
+My system is 64-bit FreeBSD running GCC 10.3.0.
 
 ## Some compiler commands
 ```bash
