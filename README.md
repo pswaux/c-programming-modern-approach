@@ -33,7 +33,7 @@ Also I've added a Makefile into each chapter.
 * Chapter 1 - Introducing C
    * History of C
    * Strengths and Weaknesses of C
-* [Chapter 2 - C Fundamentals](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/02)
+* [Chapter 2 - C Fundamentals](https://github.com/pswaux/c-programming-modern-approach/tree/main/Programming Projects/02)
    * Writing a Simple Program
    * The General Form of a Simple Program
    * Comments
