@@ -10,7 +10,7 @@ Because of the Chapters 14, 18, and 24 don't have the programming projects, thos
 
 My system is 64-bit Fedora-35 running GCC 11.3.1. I used Vim as an editor and CLI to compile programs.
 
-Disclaimer: I don't have a degree from any computer or related fields. I'm not even a professional programmer.
+Disclaimer: I didn't graduate from any computer or related field. I'm not even a professional programmer.
             Beware that if you want to use my codes. :)
 
 ## Some compiler commands
