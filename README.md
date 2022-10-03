@@ -5,12 +5,12 @@
 </p>
 
 
-This repository contains my own solutions to programming projects (not exercises) in this book. 
-Because of the Chapters 14, 18, and 24 don't have the programming projects, those chapters have been skipped.
+This repository contains my own solutions to programming projects (not exercises) in this book.\
+Because of the Chapters 14, 18, and 24 don't have the programming projects, these chapters have been skipped.
 
 My system is 64-bit Fedora-35 running GCC 11.3.1. I used Vim as an editor and CLI to compile programs.
 
-Disclaimer: I didn't graduate from any computer or related field. I'm not even a professional programmer.
+Disclaimer: I didn't graduate from any computer or related field. I'm not even a professional programmer.\
             Beware that if you want to use my codes. :)
 
 ## Some compiler commands
