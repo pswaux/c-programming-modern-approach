@@ -8,7 +8,8 @@
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-int main(void) {
+int main(void) 
+{
    int a[N], i;
 
    printf("Enter %d numbers to be sorted: ", N);
@@ -27,7 +28,8 @@ int main(void) {
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-int split(int a[], int low, int high) {
+int split(int a[], int low, int high) 
+{
    int part_element = a[low];
 
    for (; ;) {
