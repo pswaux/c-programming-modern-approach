@@ -115,7 +115,7 @@ Also I've added a Makefile into each chapter.
    * Header Files
    * Dividing a Program into Files
    * Building a Multiple-File Program
-* Chapter 16 - Structures, Unions, and Enumerations
+* [Chapter 16 - Structures, Unions, and Enumerations](https://github.com/pswaux/c-programming-modern-approach/tree/main/Projects/16)
    * Structure Variables
    * Structure Types
    * Nested Arrays and Structures
