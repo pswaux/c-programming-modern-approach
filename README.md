@@ -10,8 +10,8 @@ Because of the Chapters 14, 18, and 24 don't have the programming projects, thes
 
 My system is 64-bit Fedora-35 running GCC 11.3.1. I used Vim as an editor and CLI to compile programs.
 
-Disclaimer: I didn't graduate from any computer or related field. I'm not even a professional programmer.\
-            Beware that if you want to use my codes. :)
+I didn't graduate from any computer or related field. I'm not even a professional programmer.\
+Beware that if you want to use my codes. :)
 
 ## Some compiler commands
 ```bash
@@ -21,7 +21,7 @@ Disclaimer: I didn't graduate from any computer or related field. I'm not even a
   $ gcc src/foo.c -o bin/foo     // separate source codes and binaries
 ```
 
-Also I've added a Makefile into each chapter.
+Also, I've added a Makefile into each chapter.
 ## Usage
 ```bash
   $ make             // builds all files
