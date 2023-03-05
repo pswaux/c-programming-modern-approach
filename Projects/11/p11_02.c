@@ -49,7 +49,7 @@ int main(void)
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-void find_closest_flight(int desired_time, int *departure_time, int *arrival_time) 
+void find_closest_flight(int desired_time, int *departure_time, int *arrival_time)
 {
    char indicator = (desired_time > 719) ? 'p' : 'a';
    int dep_hour = *departure_time / 60;
