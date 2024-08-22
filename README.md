@@ -10,8 +10,8 @@ Because of the Chapters 14, 18, and 24 don't have the programming projects, thes
 
 My system is 64-bit Kali Linux running GCC 13.3.0. I used Vim as an editor and CLI to compile programs.
 
-I didn't graduate from any computer or related field. I'm not even a professional programmer.\
-Beware that if you want to use my codes. :)
+I created this repository just for self-study and fun. I didn't graduate from any computer or related fields. \
+I'm not even a professional programmer.
 
 ## Some compiler commands
 ```bash
