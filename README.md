@@ -8,7 +8,7 @@
 This repository contains my own solutions to programming projects (not exercises) in this book.\
 Because of the Chapters 14, 18, and 24 don't have the programming projects, these chapters have been skipped.
 
-My system is 64-bit Fedora-35 running GCC 11.3.1. I used Vim as an editor and CLI to compile programs.
+My system is 64-bit Kali Linux running GCC 13.3.0. I used Vim as an editor and CLI to compile programs.
 
 I didn't graduate from any computer or related field. I'm not even a professional programmer.\
 Beware that if you want to use my codes. :)
